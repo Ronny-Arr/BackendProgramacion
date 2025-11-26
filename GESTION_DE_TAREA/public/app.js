@@ -1,4 +1,4 @@
-const API_URL = '/api/tareas';
+const API_URL = '/GestorDeTarea/tareas';
 const listaTareas = document.getElementById('listaTareas');
 const form = document.getElementById('tareaForm');
 let editandoId = null;
